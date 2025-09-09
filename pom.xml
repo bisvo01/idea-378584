@@ -12,7 +12,7 @@
 
   <properties>
     <com.example.module.version>1.0.0-SNAPSHOT</com.example.module.version>
-    <com.example.module.path>${settings.localRepository}/com/example/module/${com.example.module.version}/</com.example.module.path>
+    <com.example.module.path>${user.home}/.m2/repository/com/example/module/${com.example.module.version}/</com.example.module.path>
   </properties>
 
   <build>
